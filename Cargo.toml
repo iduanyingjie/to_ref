@@ -3,6 +3,8 @@ name = "to_ref"
 version = "0.1.0"
 authors = ["iduanyingjie <iduanyingjie@163.com>"]
 edition = "2018"
+homepage = "https://github.com/iduanyingjie/to_ref"
+repository = "https://github.com/iduanyingjie/to_ref"
 description = "let path = url.to_ref::<Path>();"
 license = "MIT"
 
